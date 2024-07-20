@@ -1,3 +1,7 @@
 [submodule "Frontend-Mentor-Projects"]
 	path = Frontend-Mentor-Projects
 	url = https://github.com/JuanTwoFour/QR-Code
+
+[submodule "Frontend-Mentor-Projects"]
+	path = Frontend-Mentor-Projects
+	url = https://github.com/JuanTwoFour/Blog-preview-card
