@@ -4,3 +4,6 @@
 [submodule "Blog-preview-card"]
 	path = Blog-preview-card
 	url = https://github.com/JuanTwoFour/Blog-preview-card
+[submodule "social-links"]
+	path = social-links
+	url = https://github.com/JuanTwoFour/social-links
