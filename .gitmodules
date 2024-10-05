@@ -7,3 +7,6 @@
 [submodule "social-links"]
 	path = social-links
 	url = https://github.com/JuanTwoFour/social-links
+[submodule "Recipe-Page"]
+	path = Recipe-Page
+	url = https://github.com/JuanTwoFour/Recipe-Page
