@@ -13,3 +13,6 @@
 [submodule "Product-Preview-Card"]
 	path = Product-Preview-Card
 	url = https://github.com/JuanTwoFour/Product-Preview-Card
+[submodule "Four-card-feature"]
+	path = Four-card-feature
+	url = https://github.com/JuanTwoFour/Four-card-feature
