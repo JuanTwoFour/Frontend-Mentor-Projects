@@ -16,3 +16,6 @@
 [submodule "Four-card-feature"]
 	path = Four-card-feature
 	url = https://github.com/JuanTwoFour/Four-card-feature
+[submodule "Testimonials-grid-section"]
+	path = Testimonials-grid-section
+	url = https://github.com/JuanTwoFour/Testimonials-grid-section
