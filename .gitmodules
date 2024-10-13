@@ -10,3 +10,6 @@
 [submodule "Recipe-Page"]
 	path = Recipe-Page
 	url = https://github.com/JuanTwoFour/Recipe-Page
+[submodule "Product-Preview-Card"]
+	path = Product-Preview-Card
+	url = https://github.com/JuanTwoFour/Product-Preview-Card
