@@ -22,3 +22,6 @@
 [submodule "NFT-preview-card-component"]
 	path = NFT-preview-card-component
 	url = https://github.com/JuanTwoFour/NFT-preview-card-component
+[submodule "Results-summary-component"]
+	path = Results-summary-component
+	url = https://github.com/JuanTwoFour/Results-summary-component
