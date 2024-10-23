@@ -19,3 +19,6 @@
 [submodule "Testimonials-grid-section"]
 	path = Testimonials-grid-section
 	url = https://github.com/JuanTwoFour/Testimonials-grid-section
+[submodule "NFT-preview-card-component"]
+	path = NFT-preview-card-component
+	url = https://github.com/JuanTwoFour/NFT-preview-card-component
